@@ -68,7 +68,9 @@ and **Packet Storm Security**
 [**Pwnshop**](https://github.com/alanvivona/pwnshop) : A repository on computer security topics such as reverse engineering, binary exploitation and cryptography.    
 [**Golang blockchain**](https://github.com/alanvivona/goblockchain) : Golang Blockchain Implementation (WIP).  
 [**Golang Virtual Machine**](https://github.com/alanvivona/simple-vm) : An assembler, linker and emulator for a ficticious architecture and file format I developed from scratch in Golang.    
-[**Gameboy**](https://github.com/alanvivona/gameboy) : A gameboy assembler and disassembler implementated from scratch in Nodejs.   
+[**Gameboy**](https://github.com/alanvivona/gameboy) : A gameboy assembler and disassembler implementated from scratch in Nodejs.  
+[**Exein**](https://github.com/Exein-io/exein) : Linux security module for IoT.  
+[**RxJS Snippets**](https://github.com/alanvivona/rxjs-snippets-vscode) : An extension for vscode.   
 
 ## Publications
 I've been involved in the the development of the following research papers:  
