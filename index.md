@@ -72,8 +72,9 @@ and **Packet Storm Security**
 [**Exein**](https://github.com/Exein-io/exein) : Linux security module for IoT.  
 [**RxJS Snippets**](https://github.com/alanvivona/rxjs-snippets-vscode) : An extension for vscode.   
 
-## Publications
-I've been involved in the the development of the following research papers:  
+## Publications and Work
+I've been involved in the the development of the following research and platforms:  
+- Blocking Malicious Traffic in a Dynamic Environment: DDoS detection and reponse platform for the leading e-commerce and FinTech company in Latin America with presence in 18 countries. (2020) [[**AWS Arch Blog**](https://aws.amazon.com/blogs/architecture/mercado-libre-how-to-block-malicious-traffic-in-a-dynamic-environment/)]  
 - Exein Core: A host-based, run-time anomaly detection mechanism for Linux-based embedded systems. (2019) [[**PDF**](https://github.com/Exein-io/exein/blob/master/docs/exein_white-paper.pdf)]
 - Metodología de Modelado de Aplicaciones Web Basada en Componentes de Interfaz de Usuario. (14th Argentine Symposium on Software Engineering, ASSE 2013) [[**PDF**](https://core.ac.uk/download/pdf/211018089.pdf)]
 - Metodología de Modelado para Aplicaciones Móviles - Aplicando MDA y usando componentes Reutilizables. (2013) [[**PDF**](https://digital.cic.gba.gob.ar/bitstream/handle/11746/3387/Vera%20Pons%20-%20Metodolog%C3%ADa%20de%20Modelado%20de%20Aplicaciones%20Web%20M%C3%B3viles.pdf-PDFA.pdf?sequence=1&isAllowed=y)]
